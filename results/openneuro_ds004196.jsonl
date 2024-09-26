@@ -1,0 +1,8 @@
+{"dataset_id": "ds004196", "subject": "sub-01", "total_duration": 4483.978999999999, "bytes": 2352283866, "data_type": "task-mri", "files": 2}
+{"dataset_id": "ds004196", "subject": "sub-01", "total_duration": 1276.001, "bytes": 152521190, "data_type": "task-eeg", "files": 1}
+{"dataset_id": "ds004196", "subject": "sub-02", "total_duration": 4483.974, "bytes": 2355033317, "data_type": "task-mri", "files": 2}
+{"dataset_id": "ds004196", "subject": "sub-02", "total_duration": 1276.002, "bytes": 146466283, "data_type": "task-eeg", "files": 1}
+{"dataset_id": "ds004196", "subject": "sub-03", "total_duration": 4484.0, "bytes": 2383996988, "data_type": "task-mri", "files": 2}
+{"dataset_id": "ds004196", "subject": "sub-03", "total_duration": 1276.002, "bytes": 146690539, "data_type": "task-eeg", "files": 1}
+{"dataset_id": "ds004196", "subject": "sub-05", "total_duration": 4483.963, "bytes": 2276604158, "data_type": "task-mri", "files": 2}
+{"dataset_id": "ds004196", "subject": "sub-05", "total_duration": 1280.001, "bytes": 147363326, "data_type": "task-eeg", "files": 1}

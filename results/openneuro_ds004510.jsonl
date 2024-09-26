@@ -1,0 +1,3 @@
+{"dataset_id": "ds004510", "subject": "sub-UTS01", "total_duration": 800.0, "bytes": 845529491, "data_type": "task-mri", "files": 7}
+{"dataset_id": "ds004510", "subject": "sub-UTS02", "total_duration": 800.0, "bytes": 903105072, "data_type": "task-mri", "files": 7}
+{"dataset_id": "ds004510", "subject": "sub-UTS03", "total_duration": 800.0, "bytes": 905153636, "data_type": "task-mri", "files": 7}

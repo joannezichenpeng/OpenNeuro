@@ -1,0 +1,14 @@
+{"dataset_id": "ds003922", "subject": "sub-Ab140232", "total_duration": 307.42199999999997, "bytes": 6076524057, "data_type": "task-meg", "files": 3}
+{"dataset_id": "ds003922", "subject": "sub-Al150424", "total_duration": 468.059, "bytes": 6080520163, "data_type": "task-meg", "files": 3}
+{"dataset_id": "ds003922", "subject": "sub-Cb140229", "total_duration": 480.678, "bytes": 5932772047, "data_type": "task-meg", "files": 3}
+{"dataset_id": "ds003922", "subject": "sub-Cc160310", "total_duration": 582.097, "bytes": 6411572935, "data_type": "task-meg", "files": 3}
+{"dataset_id": "ds003922", "subject": "sub-Jl150443", "total_duration": 696.114, "bytes": 6256027979, "data_type": "task-meg", "files": 3}
+{"dataset_id": "ds003922", "subject": "sub-Lb160367", "total_duration": 539.487, "bytes": 6519652098, "data_type": "task-meg", "files": 3}
+{"dataset_id": "ds003922", "subject": "sub-Mb160304", "total_duration": 480.688, "bytes": 5999816734, "data_type": "task-meg", "files": 3}
+{"dataset_id": "ds003922", "subject": "sub-Mk150295", "total_duration": 472.35, "bytes": 5960129449, "data_type": "task-meg", "files": 3}
+{"dataset_id": "ds003922", "subject": "sub-Mm150194", "total_duration": 496.309, "bytes": 5730264638, "data_type": "task-meg", "files": 3}
+{"dataset_id": "ds003922", "subject": "sub-Mp110340", "total_duration": 569.2280000000001, "bytes": 6102408140, "data_type": "task-meg", "files": 3}
+{"dataset_id": "ds003922", "subject": "sub-Mp150285", "total_duration": 466.82800000000003, "bytes": 6595850501, "data_type": "task-meg", "files": 3}
+{"dataset_id": "ds003922", "subject": "sub-Rt160359", "total_duration": 501.557, "bytes": 6098297749, "data_type": "task-meg", "files": 3}
+{"dataset_id": "ds003922", "subject": "sub-Sl160372", "total_duration": 504.36699999999996, "bytes": 6036749058, "data_type": "task-meg", "files": 3}
+{"dataset_id": "ds003922", "subject": "sub-emptyroom", "total_duration": 0, "bytes": 1420962011, "data_type": "rs-meg", "files": 8}

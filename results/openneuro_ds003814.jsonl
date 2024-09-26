@@ -1,0 +1,10 @@
+{"dataset_id": "ds003814", "subject": "sub-ident01", "total_duration": 0, "bytes": 0, "data_type": "rs-mri", "files": 0}
+{"dataset_id": "ds003814", "subject": "sub-ident02", "total_duration": 2392.0, "bytes": 20616986316, "data_type": "task-mri", "files": 7}
+{"dataset_id": "ds003814", "subject": "sub-ident03", "total_duration": 2392.0, "bytes": 20546239783, "data_type": "task-mri", "files": 7}
+{"dataset_id": "ds003814", "subject": "sub-ident04", "total_duration": 2392.0, "bytes": 19449486282, "data_type": "task-mri", "files": 7}
+{"dataset_id": "ds003814", "subject": "sub-ident05", "total_duration": 2392.0, "bytes": 20444663547, "data_type": "task-mri", "files": 7}
+{"dataset_id": "ds003814", "subject": "sub-ident06", "total_duration": 2392.0, "bytes": 19920467749, "data_type": "task-mri", "files": 7}
+{"dataset_id": "ds003814", "subject": "sub-ident07", "total_duration": 2392.0, "bytes": 19520788872, "data_type": "task-mri", "files": 7}
+{"dataset_id": "ds003814", "subject": "sub-ident08", "total_duration": 2392.0, "bytes": 20135447888, "data_type": "task-mri", "files": 7}
+{"dataset_id": "ds003814", "subject": "sub-ident09", "total_duration": 2392.0, "bytes": 20299857867, "data_type": "task-mri", "files": 7}
+{"dataset_id": "ds003814", "subject": "sub-ident10", "total_duration": 2392.0, "bytes": 18828475148, "data_type": "task-mri", "files": 7}

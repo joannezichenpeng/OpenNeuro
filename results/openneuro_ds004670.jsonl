@@ -1,0 +1,7 @@
+{"dataset_id": "ds004670", "subject": "sub-S1", "total_duration": 15836.0, "bytes": 41597045742, "data_type": "task-mri", "files": 34}
+{"dataset_id": "ds004670", "subject": "sub-S2", "total_duration": 16792.0, "bytes": 44153618602, "data_type": "task-mri", "files": 36}
+{"dataset_id": "ds004670", "subject": "sub-S3", "total_duration": 16584.0, "bytes": 44310688590, "data_type": "task-mri", "files": 36}
+{"dataset_id": "ds004670", "subject": "sub-S4", "total_duration": 11310.0, "bytes": 43420999471, "data_type": "task-mri", "files": 25}
+{"dataset_id": "ds004670", "subject": "sub-S5", "total_duration": 12012.0, "bytes": 29907837189, "data_type": "task-mri", "files": 26}
+{"dataset_id": "ds004670", "subject": "sub-S6", "total_duration": 12282.0, "bytes": 28910749091, "data_type": "task-mri", "files": 27}
+{"dataset_id": "ds004670", "subject": "sub-S7", "total_duration": 9622.0, "bytes": 28498932667, "data_type": "task-mri", "files": 21}

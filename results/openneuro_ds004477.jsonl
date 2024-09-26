@@ -1,0 +1,9 @@
+{"dataset_id": "ds004477", "subject": "sub-001", "total_duration": 4984.9150390625, "bytes": 2461620936, "data_type": "task-eeg", "files": 1}
+{"dataset_id": "ds004477", "subject": "sub-002", "total_duration": 5933.46875, "bytes": 2939377519, "data_type": "task-eeg", "files": 1}
+{"dataset_id": "ds004477", "subject": "sub-003", "total_duration": 5391.6044921875, "bytes": 2670025705, "data_type": "task-eeg", "files": 1}
+{"dataset_id": "ds004477", "subject": "sub-004", "total_duration": 5194.8212890625, "bytes": 2591381468, "data_type": "task-eeg", "files": 1}
+{"dataset_id": "ds004477", "subject": "sub-005", "total_duration": 4618.984375, "bytes": 2315146610, "data_type": "task-eeg", "files": 1}
+{"dataset_id": "ds004477", "subject": "sub-006", "total_duration": 4991.2783203125, "bytes": 2480298062, "data_type": "task-eeg", "files": 1}
+{"dataset_id": "ds004477", "subject": "sub-007", "total_duration": 6091.3203125, "bytes": 3011631846, "data_type": "task-eeg", "files": 1}
+{"dataset_id": "ds004477", "subject": "sub-008", "total_duration": 5466.49853515625, "bytes": 2703447733, "data_type": "task-eeg", "files": 1}
+{"dataset_id": "ds004477", "subject": "sub-009", "total_duration": 5704.85791015625, "bytes": 2816989211, "data_type": "task-eeg", "files": 1}

@@ -1,0 +1,9 @@
+{"dataset_id": "ds004107", "subject": "sub-emptyroom", "total_duration": 0, "bytes": 4827476559, "data_type": "rs-meg", "files": 13}
+{"dataset_id": "ds004107", "subject": "sub-mind002", "total_duration": 8985.010624203502, "bytes": 9924275150, "data_type": "task-meg", "files": 10}
+{"dataset_id": "ds004107", "subject": "sub-mind003", "total_duration": 8978.03790495887, "bytes": 9493045440, "data_type": "task-meg", "files": 10}
+{"dataset_id": "ds004107", "subject": "sub-mind004", "total_duration": 8849.97297259458, "bytes": 9400424735, "data_type": "task-meg", "files": 10}
+{"dataset_id": "ds004107", "subject": "sub-mind006", "total_duration": 9055.975983396183, "bytes": 9747563739, "data_type": "task-meg", "files": 10}
+{"dataset_id": "ds004107", "subject": "sub-mind007", "total_duration": 8516.889749003294, "bytes": 9194911364, "data_type": "task-meg", "files": 8}
+{"dataset_id": "ds004107", "subject": "sub-mind008", "total_duration": 9763.372499594283, "bytes": 10243587758, "data_type": "task-meg", "files": 9}
+{"dataset_id": "ds004107", "subject": "sub-mind009", "total_duration": 8947.18152159888, "bytes": 9361414564, "data_type": "task-meg", "files": 9}
+{"dataset_id": "ds004107", "subject": "sub-mind010", "total_duration": 9739.510622283262, "bytes": 10663792510, "data_type": "task-meg", "files": 10}

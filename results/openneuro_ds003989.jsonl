@@ -1,0 +1,3 @@
+{"dataset_id": "ds003989", "subject": "sub-01", "total_duration": 0, "bytes": 503098458, "data_type": "rs-mri", "files": 3}
+{"dataset_id": "ds003989", "subject": "sub-02", "total_duration": 0, "bytes": 534782214, "data_type": "rs-mri", "files": 3}
+{"dataset_id": "ds003989", "subject": "sub-03", "total_duration": 0, "bytes": 538226983, "data_type": "rs-mri", "files": 3}

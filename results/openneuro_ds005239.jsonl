@@ -1,0 +1,4 @@
+{"dataset_id": "ds005239", "subject": "sub-01", "total_duration": 1201.8661698560018, "bytes": 1121301018, "data_type": "task-mri", "files": 3}
+{"dataset_id": "ds005239", "subject": "sub-dd", "total_duration": 1201.0181814250136, "bytes": 998708775, "data_type": "task-mri", "files": 2}
+{"dataset_id": "ds005239", "subject": "sub-gg", "total_duration": 1207.2348000791808, "bytes": 1127377415, "data_type": "task-mri", "files": 3}
+{"dataset_id": "ds005239", "subject": "sub-uu", "total_duration": 1199.7508339281558, "bytes": 1122701944, "data_type": "task-mri", "files": 3}

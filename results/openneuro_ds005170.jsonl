@@ -1,0 +1,3 @@
+{"dataset_id": "ds005170", "subject": "sub-01", "total_duration": 0, "bytes": 19841273600, "data_type": "rs-eeg", "files": 5}
+{"dataset_id": "ds005170", "subject": "sub-02", "total_duration": 0, "bytes": 16754755370, "data_type": "rs-eeg", "files": 5}
+{"dataset_id": "ds005170", "subject": "sub-03", "total_duration": 0, "bytes": 19627088000, "data_type": "rs-eeg", "files": 5}

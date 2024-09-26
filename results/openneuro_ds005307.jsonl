@@ -1,0 +1,7 @@
+{"dataset_id": "ds005307", "subject": "sub-esg01", "total_duration": 57.7897, "bytes": 2618100264, "data_type": "task-eeg", "files": 1}
+{"dataset_id": "ds005307", "subject": "sub-esg02", "total_duration": 58.195600000000006, "bytes": 2048301800, "data_type": "task-eeg", "files": 1}
+{"dataset_id": "ds005307", "subject": "sub-esg03", "total_duration": 57.4869, "bytes": 2674257247, "data_type": "task-eeg", "files": 1}
+{"dataset_id": "ds005307", "subject": "sub-esg04", "total_duration": 64.9242, "bytes": 2849103682, "data_type": "task-eeg", "files": 1}
+{"dataset_id": "ds005307", "subject": "sub-esg05", "total_duration": 66.8704, "bytes": 2696285121, "data_type": "task-eeg", "files": 1}
+{"dataset_id": "ds005307", "subject": "sub-esgpilot01", "total_duration": 13.276, "bytes": 2725127627, "data_type": "task-eeg", "files": 1}
+{"dataset_id": "ds005307", "subject": "sub-esgpilot02", "total_duration": 33.2563, "bytes": 3800206840, "data_type": "task-eeg", "files": 1}

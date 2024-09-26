@@ -1,0 +1,10 @@
+{"dataset_id": "ds004959", "subject": "sub-control1", "total_duration": 220.0, "bytes": 70452087, "data_type": "task-mri", "files": 1}
+{"dataset_id": "ds004959", "subject": "sub-control2", "total_duration": 440.0, "bytes": 104849702, "data_type": "task-mri", "files": 2}
+{"dataset_id": "ds004959", "subject": "sub-control3", "total_duration": 440.0, "bytes": 104065503, "data_type": "task-mri", "files": 2}
+{"dataset_id": "ds004959", "subject": "sub-control4", "total_duration": 440.0, "bytes": 105497748, "data_type": "task-mri", "files": 2}
+{"dataset_id": "ds004959", "subject": "sub-kainate1", "total_duration": 1800.0, "bytes": 284493165, "data_type": "task-mri", "files": 8}
+{"dataset_id": "ds004959", "subject": "sub-kainate2", "total_duration": 2020.0, "bytes": 317321978, "data_type": "task-mri", "files": 9}
+{"dataset_id": "ds004959", "subject": "sub-kainate3", "total_duration": 1140.0, "bytes": 179955610, "data_type": "task-mri", "files": 5}
+{"dataset_id": "ds004959", "subject": "sub-kainate4", "total_duration": 880.0, "bytes": 140517776, "data_type": "task-mri", "files": 4}
+{"dataset_id": "ds004959", "subject": "sub-kainate5", "total_duration": 2020.0, "bytes": 317860636, "data_type": "task-mri", "files": 9}
+{"dataset_id": "ds004959", "subject": "sub-kainate6", "total_duration": 2020.0, "bytes": 318651368, "data_type": "task-mri", "files": 9}

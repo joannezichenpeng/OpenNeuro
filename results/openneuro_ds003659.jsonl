@@ -1,0 +1,3 @@
+{"dataset_id": "ds003659", "subject": "sub-001", "total_duration": 26505.58547199999, "bytes": 27931887356, "data_type": "task-mri", "files": 100}
+{"dataset_id": "ds003659", "subject": "sub-002", "total_duration": 26593.56377999999, "bytes": 27163531127, "data_type": "task-mri", "files": 98}
+{"dataset_id": "ds003659", "subject": "sub-003", "total_duration": 25471.009339999993, "bytes": 23516978872, "data_type": "task-mri", "files": 95}

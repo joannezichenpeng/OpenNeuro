@@ -1,0 +1,8 @@
+{"dataset_id": "ds005250", "subject": "sub-01", "total_duration": 0, "bytes": 8907344039, "data_type": "rs-mri", "files": 2}
+{"dataset_id": "ds005250", "subject": "sub-02", "total_duration": 0, "bytes": 19877486086, "data_type": "task-mri", "files": 6}
+{"dataset_id": "ds005250", "subject": "sub-03", "total_duration": 0, "bytes": 21311084292, "data_type": "task-mri", "files": 6}
+{"dataset_id": "ds005250", "subject": "sub-04", "total_duration": 417.60000000000144, "bytes": 28119802418, "data_type": "task-mri", "files": 7}
+{"dataset_id": "ds005250", "subject": "sub-05", "total_duration": 0, "bytes": 20240025688, "data_type": "task-mri", "files": 6}
+{"dataset_id": "ds005250", "subject": "sub-06", "total_duration": 0, "bytes": 20035952133, "data_type": "task-mri", "files": 6}
+{"dataset_id": "ds005250", "subject": "sub-07", "total_duration": 0, "bytes": 20152298841, "data_type": "task-mri", "files": 6}
+{"dataset_id": "ds005250", "subject": "sub-08", "total_duration": 0, "bytes": 30132256973, "data_type": "task-mri", "files": 9}
